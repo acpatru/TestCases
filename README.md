@@ -5,7 +5,7 @@ Bellow are some Test Case samples that I wrote while working on previous project
 ---------------------
 
 **Title:**
-Test login with correct credentials.
+Test login with correct credentials
 
 **Description:**
 Test the login by using correct credentials.
