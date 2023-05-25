@@ -13,8 +13,8 @@ Test the login by using correct credentials.
 **Steps to reproduce:**
 1. Go to site.com/login
 2. Add correct user/pass.
-3. Click on the ""Login"" button.
-3. Observe if user can login."
+3. Click on the "Login" button.
+3. Observe if user can login.
 
 **Expected Result:**
 User should be able to login and is take to his profile page.
@@ -33,7 +33,7 @@ Test the login by using incorrect credentials.
 **Steps to reproduce:**
 1. Go to site.com/login
 2. Add incorrect user/pass.
-3. Click on the ""Login"" button.
+3. Click on the "Login" button.
 4. Observe if user can't login.
 
 **Expected Result:**
@@ -92,12 +92,12 @@ User: test & Pass: 123
 Test the "Search" field with the autocomplete function
 
 **Description:**
-Test the ""Search"" field by writing the first 3 letters of an object.
+Test the "Search" field by writing the first 3 letters of an object.
 
 **Steps to reproduce:**
 1. Go to https://www.emag.ro/
 2. Type the first 3 letters of the object
-3. Click on the ""Search"" button.
+3. Click on the "Search" button.
 4. Observe if in the "Search" field will be a list of words bellow: *canapele*,*canvas* and *cana*.
 
 **Expected Result:**
